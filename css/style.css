@@ -667,3 +667,14 @@ h2 {
 		
 	}
 }
+
+@media (max-width: 767px) {
+	html {
+		font-size: 50%;
+	}
+
+	.header-menu {
+		display: none;
+		
+	}
+}
